@@ -97,4 +97,5 @@ and does not provide message authentication or integrity.
 
 ## Author
 
-Ishika Bhatt and B.Tech Computer Science and Engineering 
+Ishika Bhatt 
+B.Tech Computer Science and Engineering 
